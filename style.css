@@ -1,3 +1,8 @@
+#centerr{
+      margin: auto;
+      width: 50%;
+}
+
 
 #wrap{
     float: left;
@@ -11,9 +16,9 @@
 
 
 #mypic {
-    float: left;
+    float: right;
     margin-bottom: 10px;
-    margin-right: 20px;
+    margin-right: 8px
 }
 
 #main{
@@ -40,7 +45,7 @@ body {
     font-size: 14px;
     color: DimGray;
     background-color: #e0ddd6;
-    margin: 40px;
+    
     padding: 0px;
 }
 
