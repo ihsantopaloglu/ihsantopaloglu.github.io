@@ -1,6 +1,10 @@
 #centerr{
-      margin: auto;
-      width: 50%;
+      margin: 0 auto !important; 
+	  float: none !important; 
+      max-width: 50%;
+      display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
@@ -10,14 +14,15 @@
 
 #myname{
     float: left;
-    width: 454px;
+    width: 462px;
 }
 
 
 
 #mypic {
-    float: right;
+    align-items: right;
     margin-bottom: 10px;
+    margin-right: 0 auto !important;
 }
 
 #main{
