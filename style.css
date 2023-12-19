@@ -17,6 +17,7 @@
 
 #mypic {
     float: right;
+    position: fixed;
     margin-bottom: 10px;
     margin-right: 8px
 }
